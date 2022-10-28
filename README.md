@@ -19,4 +19,6 @@
 - Firefox theme
 - Stream Deck Plugins & Icons
 
+    
+ ##### I was gone for a while focusing on other things, but im back now, projects and other things coming SOON
 
