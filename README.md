@@ -1,16 +1,22 @@
-### Hi there 👋
+<center><img src="https://argildevs.github.io/img/icon.png" width="229" height="192"></center>
+<center>
 
-<!--
-**ArgilDevs/ArgilDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Hello, I'm Argil A UK based developer
 
-Here are some ideas to get you started:
+#### I like working on automation, and other quality of life projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+## Current Project Ideas: 
+- Website [Coming Soon]
+    - it'll be something? 
+- Minecraft mods
+    - Modpacks
+    - Mods for quality of life and such
+
+### Ongoing Projects:
+- Firefox extensions
+- Firefox theme
+- Stream Deck Plugins & Icons
+
+
