@@ -1,4 +1,4 @@
-<center><img src="https://argil.devs/img/icon-128.png">
+<center><img src="https://argil.dev/img/icon-128.png">
 <center>
 
 ---
